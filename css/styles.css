@@ -1,6 +1,6 @@
 body {
 font-family: 'Roboto', sans-serif;
-color: #434455;
+color: #434455; 
 }
 
 .link {
@@ -21,11 +21,6 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-.haeder-logo-logo {
-  color: #2e2f42;
-}
-
-
 .header-link {
 font-weight: 500;
 font-size: 16px;
@@ -39,6 +34,9 @@ color: #2E2F42;
     color: #404bbf;
 }
 
+.address {
+    font-style: normal;
+}
 .address-address {
 font-family: 'Roboto';
 font-style: normal;
@@ -67,7 +65,9 @@ letter-spacing: 0.04em;
 color: #FFFFFF;
 cursor: pointer;
 }
-
+.slogan {
+    background-color: #2e2f42;
+}
 .slogan-name {
 font-weight: 700;
 font-size: 56px;
